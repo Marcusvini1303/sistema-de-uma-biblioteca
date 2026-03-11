@@ -1,1 +1,1 @@
-Sistema de gerenciamento de biblioteca em Python utilizando Programação Orientada a Objetos.
+Sistema de biblioteca em Python com cadastro de livros, clientes e controle de empréstimos.
