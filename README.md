@@ -1,4 +1,1 @@
-# sistema-de-uma-biblioteca
-fiz esse projeto enquanto estudava orientação 
-a objeto usei classe loop variaveis
-e um identificador de erro ele preve o erro 
+Sistema de gerenciamento de biblioteca em Python utilizando Programação Orientada a Objetos.
